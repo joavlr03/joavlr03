@@ -1,6 +1,5 @@
-### Java | Estruturas de Dados | Algoritmos | Arquitetura de Sistemas | SQL | Engenharia de Software
-
 ## 👨‍💻 Sobre mim
+### Java | Estruturas de Dados | Algoritmos | Arquitetura de Sistemas | SQL | Engenharia de Software
 
 Sou estudante de SI com foco no desenvolvimento de uma base técnica sólida e visão sistêmica da área de TI. 
 Tenho disciplina nos estudos e interesse constante em aprofundar conhecimentos em lógica, estruturas de dados, banco de dados e desenvolvimento de software.
