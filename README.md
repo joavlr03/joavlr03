@@ -1,12 +1,9 @@
+Estruturas de Dados | Algoritmos | Arquitetura de Sistemas | SQL | Engenharia de Software
+
 ## 👨‍💻 Sobre mim
 
 Sou estudante de SI com foco no desenvolvimento de uma base técnica sólida e visão sistêmica da área de TI. 
 Tenho disciplina nos estudos e interesse constante em aprofundar conhecimentos em lógica, estruturas de dados, banco de dados e desenvolvimento de software.
-
-Busco aplicar a teoria em projetos práticos, trabalhando com análise de dados, SQL, modelagem relacional, versionamento com Git e boas práticas de código. 
-Tenho interesse em arquitetura de sistemas, fundamentos de engenharia de dados, métricas, tomada de decisão orientada a dados e melhoria contínua.
-
-Meu objetivo é evoluir de forma consistente, unindo base acadêmica forte, pensamento analítico e capacidade de resolver problemas complexos de forma estruturada.
 
 # Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-avellar/)
