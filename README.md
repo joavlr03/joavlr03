@@ -52,11 +52,10 @@ Tenho disciplina nos estudos e interesse constante em aprofundar conhecimentos e
 
 ## 🚀 Focus Areas
 
-- Estruturas de Dados  
-- Algoritmos  
-- Modelagem de Dados  
-- Arquitetura de Sistemas  
-- Análise de Dados  
+- Desenvolvimento Backend e APIs RESTful 
+- Desenvolvimento Mobile com Consumo de API 
+- Arquitetura de Software e Integração Full Stack
+- DevOps e Deploy de Aplicações
 
 # Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-avellar/)
