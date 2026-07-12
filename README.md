@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou João Victor 👋</h1>
 <h3 align="center">Backend Developer | API Design | Mobile Development | Database Architecture</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao-avellar&style=for-the-badge&color=blueviolet" alt="profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
