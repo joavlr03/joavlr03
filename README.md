@@ -65,4 +65,4 @@ Gosto de pensar no ciclo completo de uma aplicação: do design do banco de dado
 
 ## 📫 Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-avellar/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoaoAvellar2147@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoao.avellar03@gmail.com)
