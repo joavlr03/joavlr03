@@ -2,7 +2,7 @@
 <h3 align="center">Junior Backend & Mobile Developer · Java · Spring Boot · Kotlin · Flutter</h3>
 
 <p align="center">
-  📍 São Paulo, Brazil &nbsp;·&nbsp; 🎓 Information Systems @ FIAP
+  📍 São Paulo, Brazil &nbsp;·&nbsp; 🎓 Information Systems @FIAP
 </p>
 
 <p align="center">
