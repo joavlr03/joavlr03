@@ -88,4 +88,4 @@ I like to think about the full lifecycle of an application: from database design
 ## 🎓 Education
 
 **FIAP – Information Systems** <br>
-2023 – 2026 (expected)
+2023 – 2027 (expected)
