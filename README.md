@@ -1,68 +1,91 @@
-<h1 align="center">Olá, eu sou João Victor 👋</h1>
-<h3 align="center">Backend Developer | API Design | Mobile Development | Database Architecture</h3>
+<h1 align="center">Hi, I'm João Victor 👋</h1>
+<h3 align="center">Junior Backend & Mobile Developer · Java · Spring Boot · Kotlin · Flutter</h3>
+
+<p align="center">
+  📍 São Paulo, Brazil &nbsp;·&nbsp; 🎓 Information Systems @ FIAP
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-avellar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:devjoao.avellar03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Sistemas de Informação** na FIAP, com foco no desenvolvimento de **APIs robustas**, **aplicativos mobile que consomem essas APIs** e **modelagem de bancos de dados** eficientes e escaláveis.
+I'm a **junior developer** and **Information Systems** student at FIAP, focused on building **robust REST APIs**, **mobile apps that consume them**, and **well-designed relational databases**.
 
-Gosto de pensar no ciclo completo de uma aplicação: do design do banco de dados, passando pela construção da API, até a experiência final no app mobile. Tenho disciplina nos estudos e interesse constante em aprofundar arquitetura de software, boas práticas de engenharia e integração entre sistemas.
+I like to think about the full lifecycle of an application: from database design, through the API layer, to the final experience in the mobile app. Most of my projects follow this path end to end — database ➜ Spring Boot API ➜ Android / Flutter client.
 
-🔭 Atualmente desenvolvendo APIs com **Spring Boot** e explorando **Flutter** e **Kotlin** para consumo dessas APIs em aplicativos mobile.
-
-🌱 Aprofundando conhecimentos em **arquitetura corporativa (TOGAF)**, **modelagem de dados** e **deploy em nuvem**.
-
----
-
-## 🎓 Formação
-
-**FIAP – Sistemas de Informação**
-2023 – Atual
+- 🔭 Currently building APIs with **Spring Boot** (Security, OAuth2, Flyway, PostgreSQL) and Android apps with **Kotlin + Jetpack Compose**
+- 🌱 Learning more about **enterprise architecture (TOGAF)**, **containerization with Docker**, **CI/CD** and **cloud deployment**
+- 💬 Ask me about **REST APIs, Spring Boot, Android development and data modeling**
 
 ---
 
-## 🚀 Áreas de Foco
+## 🚀 Featured Projects
 
-- 🔌 **Desenvolvimento Backend e APIs RESTful** — Spring Boot, autenticação JWT/OAuth2, documentação com Swagger/OpenAPI e boas práticas de arquitetura em camadas
-- 📱 **Desenvolvimento Mobile com Consumo de API** — Flutter e Kotlin/Android, gerenciamento de estado, requisições assíncronas e tratamento de dados offline
-- 🗄️ **Modelagem e Administração de Banco de Dados** — design de esquemas relacionais (MySQL, PostgreSQL), normalização, otimização de queries e relacionamento entre entidades
-- 🏗️ **Arquitetura de Software e Integração Full Stack** — conexão entre mobile, API e banco de dados, padrões MVVM/Clean Architecture e containerização com Docker
-- ☁️ **DevOps e Deploy de Aplicações** — publicação de APIs em nuvem, CI/CD básico, versionamento com Git/GitHub e monitoramento em produção
-
----
-
-## 💻 Tecnologias & Ferramentas
-
-### 🔹 Ferramentas do dia a dia
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔹 Backend & APIs
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🔹 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🔹 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🔹 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+| Project | Description | Stack |
+|---|---|---|
+| **[ServiceFlow](https://github.com/joavlr03/service-flow-project)** <br> [API](https://github.com/joavlr03/service-flow-api) · [Frontend](https://github.com/joavlr03/serviceflow-frontend) · [Live demo](https://serviceflow-frontend-xi.vercel.app) | Management platform for service companies: authentication, customers, work orders, scheduling and finance in a single solution. | Java · Spring Boot · Spring Security (OAuth2) · PostgreSQL · Flyway · Docker · Swagger · React · TypeScript · Tailwind |
+| **[AquaRoute](https://github.com/joavlr03/aquaroute-project)** <br> [API](https://github.com/joavlr03/api-aquaroute) · [Kotlin app](https://github.com/joavlr03/aquaroute-app) · [Flutter app](https://github.com/joavlr03/aquaroute-flutter-project) · [Architecture](https://github.com/joavlr03/aquaroute-software-architecture) | Monitoring and logistics for boats navigating the Amazon rivers, with weather forecasts and river conditions. Includes a TOGAF enterprise architecture. | Java · Spring Boot · MySQL · Kotlin · Flutter · TOGAF |
+| **[Remote Controller](https://github.com/joavlr03/remote-controller-project)** <br> [API](https://github.com/joavlr03/remote-controller-api) · [Desktop agent](https://github.com/joavlr03/remote-client) · [Android app](https://github.com/joavlr03/kotlin-remotecontroller-app) | Ecosystem to control computers over the local network (shutdown, restart, sleep, lock) from an Android app. | Java · Spring Boot · WebSocket · MySQL · Kotlin · Jetpack Compose |
+| **[NutriLink API](https://github.com/joavlr03/nutrilink-api)** | REST API for the NutriLink system: donors, health professionals, collections, screenings, logistics and support. | Java · Spring Boot · JPA · MySQL · Swagger · Lombok |
+| **[ClimaApp](https://github.com/joavlr03/ClimaApp)** · **[To-Do List](https://github.com/joavlr03/fiap-to-do-list)** | Android apps: a weather app consuming a REST API and a task manager with local persistence. | Kotlin · Jetpack Compose · Hilt · Retrofit · Room · Coroutines · Flow |
 
 ---
 
-## 📫 Conecte-se Comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-avellar/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoao.avellar03@gmail.com)
+## 🎯 Focus Areas
+
+- 🔌 **Backend & REST APIs** — Spring Boot, layered architecture, Bean Validation, JPA/Hibernate, Flyway migrations, OAuth2/JWT authentication and OpenAPI/Swagger documentation
+- 📱 **Mobile apps consuming APIs** — Kotlin with Jetpack Compose (MVVM, Hilt, Retrofit, Room, Coroutines/Flow) and Flutter/Dart
+- 🗄️ **Database modeling** — relational schema design (PostgreSQL, MySQL, SQL Server), normalization and entity relationships
+- 🏗️ **Software architecture & integration** — connecting database, API and mobile client; real-time communication with WebSocket; enterprise architecture with TOGAF
+
+---
+
+## 💻 Tech Stack
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Backend"/>
+<br>
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square)
+
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" alt="Mobile"/>
+<br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/>
+<br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1021FF?style=flat-square)
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css,js" alt="Frontend"/>
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,vercel" alt="Tools"/>
+
+---
+
+## 🎓 Education
+
+**FIAP – Information Systems** <br>
+2023 – 2026 (expected)
