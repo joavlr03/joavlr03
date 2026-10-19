@@ -36,6 +36,19 @@ I like to think about the full lifecycle of an application: from database design
 
 ---
 
+## 📚 Study Hubs
+
+Smaller study apps and coursework, grouped by subject (each one keeps its full commit history).
+
+| Hub | What's inside |
+|---|---|
+| **[📱 flutter-studies](https://github.com/joavlr03/flutter-studies)** | 10 Flutter/Dart apps: REST API consumption (ViaCEP), quizzes, games and unit tests |
+| **[🤖 kotlin-android-studies](https://github.com/joavlr03/kotlin-android-studies)** | 6 Android apps: screen navigation, Jetpack Compose and a real-time Bitcoin price monitor |
+| **[☕ java-fundamentals](https://github.com/joavlr03/java-fundamentals)** | Java exercises, JUnit tests and first Spring Boot / microservices studies |
+| **[🎓 fiap-coursework](https://github.com/joavlr03/fiap-coursework)** | FIAP sprints and checkpoints: microservices APIs, software engineering, GitFlow and SQL |
+
+---
+
 ## 🎯 Focus Areas
 
 - 🔌 **Backend & REST APIs** — Spring Boot, layered architecture, Bean Validation, JPA/Hibernate, Flyway migrations, OAuth2/JWT authentication and OpenAPI/Swagger documentation
